@@ -1,0 +1,8 @@
+program 
+-------
+- syntax (grammar)
+- datatype 
+- builtin function (print(), int()) 
+
+- built in function ဘယ်နှ ခု လဲ​? 
+- datatype 4 ခု အပြင်ဘာရှိလဲ?​ 
